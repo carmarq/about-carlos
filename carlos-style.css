@@ -1,0 +1,9 @@
+body {
+	background-color: cadetblue;
+}
+
+.center {
+  width: 40%;
+  margin: auto;
+  text-align: center;
+}
